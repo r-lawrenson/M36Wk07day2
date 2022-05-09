@@ -1,0 +1,24 @@
+{
+  "name": "m36wk07day2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/r-lawrenson/M36Wk07day2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/r-lawrenson/M36Wk07day2/issues"
+  },
+  "homepage": "https://github.com/r-lawrenson/M36Wk07day2#readme",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "yargs": "^17.4.1"
+  }
+}
